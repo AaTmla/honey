@@ -1,0 +1,452 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.header{
+    padding: 0 50px;
+}
+
+.container{
+    padding: 0 15px;
+    margin: 0 auto;
+    max-width: 1146px;
+    width: 100%;
+
+}
+
+body{
+    font-family: 'Kodchasan';
+}
+
+.list{
+    display: flex;
+   justify-content: flex-end;
+}
+
+.item{
+    display: flex;
+    margin: 38px 40px 39px 0;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+    transition: 0.5s;
+}
+
+.item:hover{
+    font-weight: 700;
+}
+.nav-img{
+    margin: 30px 0 30px 227px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.licking{
+    padding-left: 98px;
+}
+
+.header{
+    padding: 0 50px;
+}
+
+
+.header-lists{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 93px;
+}
+
+.header-list2{
+    display: flex;
+    flex-direction: column;
+}
+
+.header-box{
+    background: url('../images/header-bg.png') no-repeat center center /cover;
+    border-radius: 30px ;
+    height: 865px;
+   margin-bottom: 130px;
+}
+
+.header-text1{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+}
+
+.first-button{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+color: #000000;
+border: #000000 2px solid;
+padding: 18px 50px;
+transition: 0.5s;
+}
+
+.first-button:hover {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+
+
+
+.header-buttons{
+    display: flex;
+    width: 419px;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-list{
+    display: flex;
+    justify-content: center;
+}
+
+
+.shop{
+    margin-right: 101px;
+}
+
+
+.main-box{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.main-title{
+    margin-top: 336px;
+    width: 548px;
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+color: #000000;
+margin-bottom: 30px;
+
+
+}
+
+.main-img1{
+    margin-top: 130px;
+
+
+}
+
+.main-description{
+    width: 516px;
+    font-family: 'Kodchasan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+.main-p{
+    margin-left: 32px;
+}
+
+
+.main-button{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+color: #FFFFFF;
+background: #E68311;
+padding: 15px 40px;
+}
+
+
+
+
+.main-box2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.main-title2{
+    margin-top: 336px;
+    width: 548px;
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+color: #000000;
+margin-bottom: 30px;
+
+
+}
+
+.main-img2{
+    margin-top: 130px;
+
+
+}
+
+.main-description2{
+    width: 516px;
+    font-family: 'Kodchasan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+.main-p2{
+    margin-left: 32px;
+}
+
+
+.main-button2{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+color: #FFFFFF;
+background: #E68311;
+padding: 15px 40px;
+}
+
+
+.block-container1{
+    background: url('../images/block-bg.png');
+    width: 558px;
+   display: flex;
+   margin-right: 30px;
+}
+
+.containers{
+    display: flex;
+    width: 1146px;
+}
+
+.main-block{
+   display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 130px;
+   
+}
+
+.block-container2{
+    background: url('../images/block-bg.png');
+    width: 558px;
+   display: flex;
+}
+
+
+.h3{
+    padding: 45px 0 20px 30px;
+}
+
+.block-p{
+    padding: 0 0 40px 30px;
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+color: #000000;
+opacity: 0.7;
+
+}
+
+.block-link1{
+    margin: 0 0 54px 60px;
+    padding: 10px 30px;
+}
+
+.block-nav{
+    width: 1146px;
+    display: flex;
+    justify-content: space-between;
+  align-items: flex-end;
+   margin-bottom: 50px;
+}
+
+.h33{
+    padding: 40px 0 30px 30px;
+}
+
+.block-p2{
+    padding: 0 61px 40px 30px;
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+color: #000000;
+opacity: 0.7;
+
+}
+
+.block-link2{
+    margin : 0 0 49px 60px;
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+color: #E58211;
+border: #E58211 2px solid;
+padding: 10px 30px;
+}
+
+.container-img{
+    padding: 29px 0 28px 0;
+}
+
+.container-img2{
+    padding: 43px 40px 43px 0;
+}
+
+.block-link{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+text-decoration-line: underline;
+color: #E58211;
+
+}
+
+.block-title{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+color: #000000;
+}
+
+.h3{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+color: #000000;
+}
+
+.h33{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+color: #000000;
+}
+
+.block-link1{
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+color: #E58211;
+border: #E58211 2px solid;
+}
+
+.main-img2{
+    margin-bottom: 100px;
+}
+
+
+.main-content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 1146px;
+    margin: 0 auto;
+}
+
+.main-h2{
+    display: flex;
+    justify-content: flex-start;
+   margin-bottom: 50px;
+   font-weight: 700;
+font-size: 45px;
+color: #000000;
+}
+
+
+
+
+
+
+
+.footer{
+    background: linear-gradient(76.02deg, #FF9D2D 1.66%, #FFD877 93.21%);
+}
+
+
+.footer-block{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+ padding: 45px 0;
+    align-items: center;
+}
+
+
+.footer-logo{
+    display: flex;
+}
+
+.footer-buttons{
+    display: flex;
+}
+
+
+.footer-img{
+    margin-right: 50px;
+}
+
+.footer-p{
+    width: 269px;
+    font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+color: #000000;
+opacity: 0.7;
+}
+
+.footer-button{
+    margin-right: 20px;
+}
